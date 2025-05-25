@@ -1,1 +1,0 @@
-web: java -jar tender-web-api-fat.jar
